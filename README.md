@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shamoon Butt</h1>
-<h3 align="center">Learning.......</h3>
+<h3 align="center">Hello World!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshamoonbutt&label=Profile%20views&color=0e75b6&style=flat" alt="mshamoonbutt" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/muhammad-shamoon-butt-6328b1215/](https://www.linkedin.com/in/muhammad-shamoon-butt-6328b1215/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Programming Challanges**
 
 - 📫 How to reach me **buttshamoon175@gmail.com**
 
@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mshamoonbutt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mshamoonbutt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-shamoon-butt-6328b1215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-shamoon-butt-6328b1215/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-shamoon-butt-6328b1215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-shamoon-butt-6328b1215/" height="30" width="40" /></a>
 <a href="https://kaggle.com/mshamoonbutt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mshamoonbutt" height="30" width="40" /></a>
 <a href="https://fb.com/mshamoonbutt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mshamoonbutt" height="30" width="40" /></a>
 <a href="https://instagram.com/mshamoonbutt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mshamoonbutt" height="30" width="40" /></a>
