@@ -56,7 +56,7 @@ Hi, my name is Muhammad Shamoon Butt, I'm a Undergrad CS student from Pakistan.
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Pakistan
+🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
 Python                   21 hrs 26 mins      ██████████████████████░░░   88.88 % 
@@ -124,11 +124,9 @@ Linux                    1 hr 14 mins        ███████████�
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamoonbutt/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mshamoonbutt/)
+[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/24027494/muhammad-shamoon-butt)
   
 </div>
 
