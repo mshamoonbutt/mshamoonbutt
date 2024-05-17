@@ -113,21 +113,8 @@ Linux                    1 hr 14 mins        ███████████�
 	<a href="https://github.com/mshamoonbutt/Programming-Fundamentals-Python">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mshamoonbutt&repo=Programming-Fundamentals-Python&theme=transparent" alt="GitHub Stats" />
     	</a>
-	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/derizer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
-    	</a>
+	    <a href="https://github.com/mshamoonbutt/Movie-Management-System-tkinter-python">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mshamoonbutt&repo=Movie-Management-System-tkinter-python&theme=transparent" alt="GitHub Stats" />
 </div>
 
 <!--x axis divider-->
