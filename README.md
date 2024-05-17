@@ -40,16 +40,16 @@ Hi, my name is Muhammad Shamoon Butt, I'm a Undergrad CS student from Pakistan.
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+![](https://komarev.com/ghpvc/?username=mshamoonbutt) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/mshamoonbutt?label=Followers) ![Stars](https://img.shields.io/github/stars/mshamoonbutt?label=Stars)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-🌆 Daytime                2397 commits        ███████████░░░░░░░░░░░░░░   43.34 % 
-🌃 Evening                1893 commits        █████████░░░░░░░░░░░░░░░░   34.23 % 
-🌙 Night                  656 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+🌞 Morning                70 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+🌆 Daytime                20 commits        ███████████░░░░░░░░░░░░░░   43.34 % 
+🌃 Evening                18 commits        █████████░░░░░░░░░░░░░░░░   34.23 % 
+🌙 Night                  5 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 ```
 
 
@@ -59,21 +59,22 @@ Hi, my name is Muhammad Shamoon Butt, I'm a Undergrad CS student from Pakistan.
 🕑︎ Time Zone: Asia/Pakistan
 
 💬 Programming Languages: 
-TypeScript               21 hrs 26 mins      ██████████████████████░░░   88.88 % 
+Python                   21 hrs 26 mins      ██████████████████████░░░   88.88 % 
 CSS                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-PHP                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+C                        18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Typescript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
 VS Code                  24 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  24 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  24 hrs 7 mins       █████████████████████████   100.00 %
+Linux                    1 hr 14 mins        ███████████░░░░░░░░░░░░░░   40.13 % 
 ```
 
 
- Last Updated on 16-05-2024 17:19:10 UTC
+ Last Updated on 17-05-2024 17:19:10 UTC
 <!--END_SECTION:waka-->
   
 </div>
@@ -90,7 +91,7 @@ Windows                  24 hrs 7 mins       ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,c,js,ts,git,vscode&perline=6" />
 </a>
 </p>
 
@@ -100,7 +101,7 @@ Windows                  24 hrs 7 mins       ███████████�
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=mshamoonbutt&hide_border=true&type=png" alt="mshamoonbutt" /></p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
