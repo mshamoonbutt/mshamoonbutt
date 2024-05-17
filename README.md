@@ -46,7 +46,7 @@ Hi, my name is Muhammad Shamoon Butt, I'm a Undergrad CS student from Pakistan.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                70 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+🌞 Morning                70 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 🌆 Daytime                20 commits        ███████████░░░░░░░░░░░░░░   43.34 % 
 🌃 Evening                18 commits        █████████░░░░░░░░░░░░░░░░   34.23 % 
 🌙 Night                  5 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
@@ -163,9 +163,6 @@ Linux                    1 hr 14 mins        ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
-</div>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
