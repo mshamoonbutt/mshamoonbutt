@@ -15,6 +15,7 @@
 </picture>
 
 ```python
+import Person from Pakistan
 class Person:
     def __init__(self, name, title, email, website, married):
         self.name = "Muhammad Shamoon Butt"
@@ -33,8 +34,8 @@ person.introduce()
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\mshamoonbutt>python index.py
+Hi, my name is Muhammad Shamoon Butt, I'm a Undergrad CS student from Pakistan.
 ```
 
 <div align="center">
