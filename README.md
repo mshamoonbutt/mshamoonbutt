@@ -33,8 +33,8 @@ person.introduce()
 
 ```
 
-```cmd
-D:\mshamoonbutt>python index.py
+```python
+D:\mshamoonbutt> python index.py
 Hi, my name is Muhammad Shamoon Butt, I'm a Undergrad CS student from Pakistan.
 ```
 
