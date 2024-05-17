@@ -40,7 +40,7 @@ Hi, my name is Muhammad Shamoon Butt, I'm a Undergrad CS student from Pakistan.
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=mshamoonbutt) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/mshamoonbutt?label=Followers) ![Stars](https://img.shields.io/github/stars/mshamoonbutt?label=Stars)
+![](https://komarev.com/ghpvc/?username=mshamoonbutt) [![wakatime](https://wakatime.com/badge/user/7cac5485-e095-4701-a765-e849ae400847.svg)](https://wakatime.com/@7cac5485-e095-4701-a765-e849ae400847) ![Followers](https://img.shields.io/github/followers/mshamoonbutt?label=Followers) ![Stars](https://img.shields.io/github/stars/mshamoonbutt?label=Stars)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
