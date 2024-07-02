@@ -21,13 +21,11 @@ class Person:
         self.name = "Muhammad Shamoon Butt"
         self.title = "Undergrad CS Student"
         self.email = "buttshamoon175@gmail.com"
-        self.married = False 
 
     def introduce(self):
         print(f"Name: {self.name}")
         print(f"Title: {self.title}")
         print(f"Email: {self.email}")
-        print(f"Married: {self.married}")
 
 person.introduce()
 
