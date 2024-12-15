@@ -17,7 +17,7 @@
 ```python
 import Person from Pakistan
 class Person:
-    def __init__(self, name, title, email, website, married):
+    def __init__(self, name, title, email):
         self.name = "Muhammad Shamoon Butt"
         self.title = "Undergrad CS Student"
         self.email = "buttshamoon175@gmail.com"
