@@ -89,7 +89,7 @@ Linux                    1 hr 14 mins        ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css,react,fastapi,docker,r,linux,git,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css,react,fastapi,docker,r,git,vscode&perline=6" />
 </a>
 </p>
 
