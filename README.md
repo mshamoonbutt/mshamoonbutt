@@ -23,9 +23,7 @@ class Person:
         self.email = "buttshamoon175@gmail.com"
 
     def introduce(self):
-        print(f"Name: {self.name}")
-        print(f"Title: {self.title}")
-        print(f"Email: {self.email}")
+        print(f"Hi, my name is {self.name}, I'm a {self.title} from Pakistan.")
 
 person.introduce()
 
