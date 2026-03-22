@@ -19,7 +19,7 @@ import Person from Pakistan
 class Person:
     def __init__(self, name, title, email):
         self.name = "Muhammad Shamoon Butt"
-        self.title = "Undergrad CS Student"
+        self.title = "Software and AI Engineer"
         self.email = "buttshamoon175@gmail.com"
 
     def introduce(self):
@@ -31,7 +31,7 @@ person.introduce()
 
 ```terminal
 D:\mshamoonbutt>python index.py
-Hi, my name is Muhammad Shamoon Butt, I'm a Undergrad CS student from Pakistan.
+Hi, my name is Muhammad Shamoon Butt, I'm a Software and AI Engineer from Pakistan.
 ```
 
 <div align="center">
