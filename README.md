@@ -82,24 +82,6 @@ Linux                  24 hrs 7 mins       ████████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h3 align="center">🔥Streak Stats🔥</h3>
-
-<!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=mshamoonbutt&hide_border=true&type=png" alt="mshamoonbutt" /></p>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<h3 align="center">⭐My Favorite Repo⭐</h3>
-
-<div>
-  <p align="center">
-	<a href="https://github.com/mshamoonbutt/Programming-Fundamentals-Python">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mshamoonbutt&repo=Programming-Fundamentals-Python&theme=transparent" alt="GitHub Stats" />
-    	</a>
-	    <a href="https://github.com/mshamoonbutt/Movie-Management-System-tkinter-python">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mshamoonbutt&repo=Movie-Management-System-tkinter-python&theme=transparent" alt="GitHub Stats" />
-</div>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -113,17 +95,3 @@ Linux                  24 hrs 7 mins       ████████████�
 [![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/24027494/muhammad-shamoon-butt)
   
 </div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!-- Support me -->
-<h3 align="center">☕Support Me☕</h3>
-
-<div align="center">
-  
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)]() [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
