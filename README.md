@@ -34,35 +34,6 @@ D:\mshamoonbutt>python index.py
 Hi, my name is Muhammad Shamoon Butt, I'm a Software and AI Engineer from Pakistan.
 ```
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=mshamoonbutt) [![wakatime](https://wakatime.com/badge/user/7cac5485-e095-4701-a765-e849ae400847.svg)](https://wakatime.com/@7cac5485-e095-4701-a765-e849ae400847) ![Followers](https://img.shields.io/github/followers/mshamoonbutt?label=Followers) ![Stars](https://img.shields.io/github/stars/mshamoonbutt?label=Stars)
-
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-Python                   21 hrs 26 mins      ██████████████████████░░░   88.88 % 
-JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Typescript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-
-🔥 Editors: 
-Claude Code                  24 hrs 7 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                  24 hrs 7 mins       █████████████████████████   100.00 %
-```
-
-
- Last Updated on 17-05-2024 17:19:10 UTC
-<!--END_SECTION:waka-->
-  
-</div>
-
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
@@ -82,9 +53,6 @@ Linux                  24 hrs 7 mins       ████████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
