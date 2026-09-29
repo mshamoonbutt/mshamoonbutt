@@ -38,15 +38,6 @@ Hi, my name is Muhammad Shamoon Butt, I'm a Software and AI Engineer from Pakist
 
 ![](https://komarev.com/ghpvc/?username=mshamoonbutt) [![wakatime](https://wakatime.com/badge/user/7cac5485-e095-4701-a765-e849ae400847.svg)](https://wakatime.com/@7cac5485-e095-4701-a765-e849ae400847) ![Followers](https://img.shields.io/github/followers/mshamoonbutt?label=Followers) ![Stars](https://img.shields.io/github/stars/mshamoonbutt?label=Stars)
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                70 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-🌆 Daytime                20 commits        ███████████░░░░░░░░░░░░░░   43.34 % 
-🌃 Evening                18 commits        █████████░░░░░░░░░░░░░░░░   34.23 % 
-🌙 Night                  5 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -56,17 +47,14 @@ Hi, my name is Muhammad Shamoon Butt, I'm a Software and AI Engineer from Pakist
 
 💬 Programming Languages: 
 Python                   21 hrs 26 mins      ██████████████████████░░░   88.88 % 
-CSS                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-C                        18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 Typescript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 7 mins       █████████████████████████   100.00 % 
+Claude Code                  24 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Linux                  24 hrs 7 mins       █████████████████████████   100.00 %
-Windows                1 hr 14 mins        ███████████░░░░░░░░░░░░░░   40.13 % 
 ```
 
 
@@ -135,14 +123,6 @@ Windows                1 hr 14 mins        ███████████░�
 <div align="center">
   
 [![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)]() [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 
 <!--x axis divider-->
