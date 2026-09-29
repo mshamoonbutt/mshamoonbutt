@@ -34,21 +34,6 @@ D:\mshamoonbutt>python index.py
 Hi, my name is Muhammad Shamoon Butt, I'm a Software and AI Engineer from Pakistan.
 ```
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,js,ts,claude,linux,react,fastapi,docker,r,git,vscode&perline=6" />
-</a>
-</p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
